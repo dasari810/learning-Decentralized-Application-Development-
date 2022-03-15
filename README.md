@@ -9,8 +9,8 @@ This applcation was developed as part of our course Software Engineering (CSE-38
 - Frontend UI for this aplication is created using HTML, CSS and Javascript, that displayed the current standings of the election (the list of candidates and their respective votes).
 
 ## Technical Stack:
-**Framework:** Truffle
-**Frontend:** HTML/CSS and Javascript
-**Backend** Ethereum Smart contract
+- **Framework:** Truffle
+- **Frontend:** HTML/CSS and Javascript
+- **Backend** Ethereum Smart contract
 
 **References:** [https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial](https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial).
