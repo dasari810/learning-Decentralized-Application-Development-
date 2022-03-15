@@ -11,6 +11,6 @@ This applcation was developed as part of our course Software Engineering (CSE-38
 ## Technical Stack:
 - **Framework:** Truffle
 - **Frontend:** HTML/CSS and Javascript
-- **Backend** Ethereum Smart contract
+- **Backend:** Ethereum Smart contract
 
 **References:** [https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial](https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial).
